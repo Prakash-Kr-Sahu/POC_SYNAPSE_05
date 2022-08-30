@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Wait AZ400",
+				"name": "Wait AZ400-9999",
 				"type": "Wait",
 				"dependsOn": [],
 				"userProperties": [],
