@@ -1,0 +1,19 @@
+{
+	"name": "AZ400_PIPE_001",
+	"properties": {
+		"activities": [
+			{
+				"name": "Wait AZ400",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": [],
+		"lastPublishTime": "2022-08-30T06:44:20Z"
+	},
+	"type": "Microsoft.Synapse/workspaces/pipelines"
+}
